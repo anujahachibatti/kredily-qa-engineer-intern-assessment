@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-27T18:21:13 IST" name="Default suite" finished-at="2026-09-27T18:21:55 IST" duration-ms="42661">
+    <groups>
+    </groups>
+    <test started-at="2026-09-27T18:21:13 IST" name="Default test" finished-at="2026-09-27T18:21:55 IST" duration-ms="42661">
+      <class name="tests.AttendanceTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.AttendanceTest@4218d6a3]" started-at="2026-09-27T18:21:13 IST" name="setUp" finished-at="2026-09-27T18:21:18 IST" duration-ms="5259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="attendanceValidationTest()[pri:0, instance:tests.AttendanceTest@4218d6a3]" started-at="2026-09-27T18:21:18 IST" name="attendanceValidationTest" finished-at="2026-09-27T18:21:54 IST" duration-ms="35601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attendanceValidationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.AttendanceTest@4218d6a3]" started-at="2026-09-27T18:21:54 IST" name="tearDown" finished-at="2026-09-27T18:21:55 IST" duration-ms="1767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.AttendanceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
